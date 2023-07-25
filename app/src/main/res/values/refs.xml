@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="pasta" />
+    <drawable name="maggi" />
+    <drawable name="cake" />
+    <drawable name="pancake" />
+    <drawable name="pizza" />
+    <drawable name="burger" />
+    <drawable name="fries" />
+</resources>

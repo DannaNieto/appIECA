@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/temario"
+            android:title="Temario"/>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/tareas"
+            android:title="Tareas"/>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/examenes"
+            android:title="Examenes"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/reglamento"
+            android:title="Reglamento"/>
+    </group>
+    <item
+        android:title=" ">
+
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/baseline_exit_to_app_24"
+                android:title="Salir"/>
+        </menu>
+    </item>
+
+</menu>

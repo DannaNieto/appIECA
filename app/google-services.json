@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407320144873",
+    "project_id": "aplicacionieca",
+    "storage_bucket": "aplicacionieca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407320144873:android:86dffd8ddc67d461acf978",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionieca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407320144873-0rpv3svbb0ou3a3fmmk7rkrq5g9s51mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADi2KrqxGrF2AI0pYbfkjDdzQ9xm24Nm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407320144873-0rpv3svbb0ou3a3fmmk7rkrq5g9s51mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
